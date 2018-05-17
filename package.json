@@ -1,0 +1,39 @@
+{
+  "name": "postcss-line-height-ie-fix",
+  "version": "0.0.1",
+  "description": "PostCSS plugin to fix the line-height ie bug",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "ie",
+    "line-height"
+  ],
+  "author": "Eike Ahmels <e.ahmels@omnia5.com>",
+  "license": "MIT",
+  "repository": "freasy@gmx-topmail.de/postcss-line-height-ie-fix",
+  "bugs": {
+    "url": "https://github.com/freasy@gmx-topmail.de/postcss-line-height-ie-fix/issues"
+  },
+  "homepage": "https://github.com/freasy@gmx-topmail.de/postcss-line-height-ie-fix",
+  "dependencies": {
+    "postcss": "^6.0.16"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-postcss": "^2.0.2",
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss/es5",
+    "env": {
+      "jest": true
+    }
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
