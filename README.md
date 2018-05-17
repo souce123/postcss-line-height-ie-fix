@@ -3,8 +3,8 @@
 [PostCSS] plugin to fix the line-height ie bug.
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/e.ahmels@omnia5.com/postcss-line-height-ie-fix.svg
-[ci]:      https://travis-ci.org/e.ahmels@omnia5.com/postcss-line-height-ie-fix
+[ci-img]:  https://travis-ci.org/freasy@gmx-topmail.de/postcss-line-height-ie-fix.svg
+[ci]:      https://travis-ci.org/freasy@gmx-topmail.de/postcss-line-height-ie-fix
 
 ```css
 .foo {
