@@ -16,6 +16,8 @@
 ```css
 .foo {
   /* Output example */
+  line-height: 34px;
+  height: 34px;
 }
 ```
 
